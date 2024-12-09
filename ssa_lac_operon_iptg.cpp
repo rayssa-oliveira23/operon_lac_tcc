@@ -5,7 +5,7 @@
     argv[1] - maximum simulation time
     argv[2] - IPTG concentration
 
-    Verson with binary file output
+    Version with binary file output
 
     Compilation command: 
     g++ ssa_lac_operon_iptg.cpp -o ssa_lac_operon_iptg
