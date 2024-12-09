@@ -1,6 +1,7 @@
 /*
     Simulation of lac operon model with Gillespie's Algorithm
-
+    Rayssa Oliveira Santos
+    
     argv[1] - maximum simulation time
 
     Verson with binary file output
