@@ -3,6 +3,7 @@
     Rayssa Oliveira Santos
     
     argv[1] - maximum simulation time
+    argv[2] - IPTG concentration
 
     Verson with binary file output
 
